@@ -1,0 +1,7 @@
+/.idea
+/out
+/src/test
+/target
+/StreamingAnalysis.iml
+*.conf
+*.MF
