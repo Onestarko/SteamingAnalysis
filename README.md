@@ -27,8 +27,6 @@ REDIS_DB="1"
 ZK_HOST="ip:port"
 ```
 
-- [完整代码](https://github.com/Onestarko/SteamingAnalysis)
-
 ### 四、补充
 - [项目细节说明](https://onestarko.github.io/2020/07/09/SparkStreaming流处理分析订单日志/) 
 
